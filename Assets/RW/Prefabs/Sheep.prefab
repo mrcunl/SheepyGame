@@ -75,6 +75,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c102e71760cec4a42b58ec63f497c060, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  heartOffset: 4
+  heartPrefab: {fileID: 1407861569804760618, guid: c9f3031d56e2f154e92b660363f58a6e,
+    type: 3}
   runSpeed: 10
   gotHayDestroyDelay: 1
   dropDestroyDelay: 4
